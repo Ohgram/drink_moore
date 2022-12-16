@@ -7,7 +7,7 @@ module drink_moore (
            out
 );
 
-    parameter [2:0]s0 =3'b000,
+    parameter s0 =3'b000,
                    s1 =3'b001,
                    s2 =3'b010,
                    s3 =3'b011,
